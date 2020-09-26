@@ -1,2 +1,2 @@
 # optimization
-optimization methods
+optimization methods exploration and code samples
